@@ -1,0 +1,19 @@
+[
+  {
+    "id":212,
+    "source":0,
+    "property_preprocess":false,
+    "name":"mrcGetPositionOptions",
+    "description":"",
+    "editor_type":0,
+    "category":0,
+    "cache_type":0,
+    "locked":false,
+    "properties":null,
+    "moduleguid":"",
+    "static":false,
+    "static_file":"",
+    "filename":"mrcgetpositionoptions.snippet.php",
+    "category_name":"mrcCategoryResources"
+  }
+]
